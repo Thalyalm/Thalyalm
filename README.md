@@ -1,9 +1,8 @@
-
 <h2 align="center">
-<img src="" width="65" height="65">
-<img src="" width="65" height="65">
-<img src="" width="65" height="65">
-<img src="" width="65" height="65">
+<img src="" width="" height="">
+<img src="" width="" height="">
+<img src="" width="" height="">
+<img src="" width="" height="">
 
 
 <h2 align="center"> Hi.
@@ -13,6 +12,9 @@ Welcome! </h1>
 
 
 
+
+
+
 **Siga-me!** 
 | [Linkedin](https://www.linkedin.com/in/thalysonalmeida/) 
-| [Instagram](https://www.instagram.com/thalyson.alm/) 
+| [Instagram](https://www.instagram.com/thalyson.alm/)
