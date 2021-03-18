@@ -1,3 +1,4 @@
+<!--
 <h2 align="center">
 <img src="" width="65" height="65">
 <img src="" width="65" height="65">
