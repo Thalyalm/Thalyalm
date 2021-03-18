@@ -1,5 +1,5 @@
-src="https://github.com/Thalyalm/Thalyalm/blob/main/javascript.png">width="65" height="65">
-src="https://github.com/Thalyalm/Thalyalm/blob/main/javascript.png">width="65" height="65">
+<h2 align="center">src="https://github.com/Thalyalm/Thalyalm/blob/main/javascript.png?raw=true">width="65" height="65">
+src="https://github.com/Thalyalm/Thalyalm/blob/main/python.png?raw=true">width="65" height="65">
 
 <h2 align="center"> Hi.
 I am Thalyson, future developer.
