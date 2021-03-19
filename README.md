@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="https://github.com/Thalyalm/Thalyalm/blob/main/T%20logo.png?raw=true" width="200" height="250">
+<img src="https://github.com/Thalyalm/Thalyalm/blob/main/T%20logo.png?raw=true" width="200" height="200">
 
 <h2 align="center"> Hi.
 I am Thalyson, future developer.
