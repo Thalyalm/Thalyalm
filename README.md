@@ -5,6 +5,6 @@ Welcome! </h1>
 
 
 
-**Siga-me!** 
+**Follow me!** 
 | [Linkedin](https://www.linkedin.com/in/thalysonalmeida/) 
 | [Instagram](https://www.instagram.com/thalyson.alm/)
