@@ -6,5 +6,5 @@ Welcome! </h1>
 
 **Follow me!** 
 | [Linkedin](https://www.linkedin.com/in/thalysonalmeida/) 
-| [Instagram](https://www.instagram.com/thalyson.alm/)
 | [Linktree](https://linktr.ee/ThalysonAlmeida)
+| [Instagram](https://www.instagram.com/thalyson.alm/)
