@@ -5,6 +5,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/thalysonalmeida)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-000?style=flat-square&logo=Youtube&logoColor=white&link)](https://www.youtube.com/channel/UCaVZsGZxyP1JgZCzfKpNzZg)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link)](https://github.com/Thalyalm)
-
-
-![Snake](https://github.com/Thalyalm/thalyalm/blob/main/snake-animation.svg)
