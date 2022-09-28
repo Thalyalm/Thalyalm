@@ -1,4 +1,4 @@
-# Hi, I'm Thalyson Almeida!
+# Hi, I'm Thalyson!
 
 
 [![Linktr.ee Badge](https://img.shields.io/badge/-linktree-000?style=flat-square&logo=Linktree&logoColor=white&link)](https://linktr.ee/thalysonalmeida)
